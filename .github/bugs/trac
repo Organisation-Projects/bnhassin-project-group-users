@@ -1,0 +1,2 @@
+$ trac-admin $TRAC_ENV permission add launchpad XML_RPC
+$ trac-admin $TRAC_ENV permission add launchpad LAUNCHPAD_RPC
