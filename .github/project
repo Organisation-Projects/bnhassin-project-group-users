@@ -1,0 +1,3 @@
+git remote add bnhassin git+ssh://bnhassin@git.launchpad.net/bnhassin-project-group-users
+git remote update bnhassin
+git merge bnhassin/main
