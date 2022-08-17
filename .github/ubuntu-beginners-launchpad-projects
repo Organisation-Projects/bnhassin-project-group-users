@@ -1,1 +1,2 @@
 git push git+ssh://bnhassin@git.launchpad.net/~bnhassin/ubuntu-beginners-launchpad-projects master
+git clone -b master https://git.launchpad.net/~bnhassin/ubuntu-beginners-launchpad-projects
