@@ -1,0 +1,2 @@
+git clone https://git.launchpad.net/~bnhassin/ubuntu/+source/snapcraft
+git clone git+ssh://bnhassin@git.launchpad.net/~bnhassin/ubuntu/+source/snapcraft
